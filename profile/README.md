@@ -20,8 +20,9 @@
 - **Social Features**:  Create public profiles, rate anime, organize your watchlists, and get personalized recommendations based on your activity.
 - **Contribute**: Help us build the database by sharing your knowledge!
 
-### Early Development ⚠️  
-We're in the early stages of development and continuously evolving. Your feedback helps us shape the future of HayaseDB!
+> [!WARNING]  
+> ### Early Development
+> We're in the early stages of development and continuously evolving. Your feedback helps us shape the future of HayaseDB!
 
 ### Join the Team 💪  
 We're looking for designers, moderators, and other team members to help improve HayaseDB. If you're interested in contributing, we’d love to hear from you!
