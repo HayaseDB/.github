@@ -3,7 +3,7 @@
 # HayaseDB: Anime Database for Fans and Developers!  
 <div align="left">
 
-[![Project Status](https://img.shields.io/badge/Project_Status-Early_Development-brightgreen)](https://github.com/AIO-Develope/HayaseDB-api) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+![Project Status](https://img.shields.io/badge/Project_Status-Early_Development-brightgreen) [![License](https://img.shields.io/badge/License-MIT-blue.svg)]
 
 </div>
 
